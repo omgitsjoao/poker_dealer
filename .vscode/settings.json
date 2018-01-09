@@ -1,0 +1,10 @@
+{
+    "saveAndRun": {
+        "commands": [
+            {
+                "cmd": "mix compile",
+                "match": "\\.ex"
+            }
+        ]
+    }
+}
